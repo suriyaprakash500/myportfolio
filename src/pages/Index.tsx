@@ -55,22 +55,22 @@ const useTypewriter = (text: string, speed = 50) => {
 
 const projects = [
   {
-    title: 'Project Cygnus',
-    description: 'A decentralized data visualization platform using Web3 technologies and real-time GPU acceleration.',
+    title: 'Moodify',
+    description: 'Developed a full-stack web application that analyzes sentences and classifies them as positive, negative, or neutral. It uses sentiment analysis to recommend to classify emotions being delivered in the sentence. The frontend is built with React, while the backend leverages Flask with Python for machine learning.',
     link: '#',
-    tags: ['React', 'Three.js', 'Solidity', 'Web3'],
+    tags: ['Reactjs', 'Flask', 'Textblob', 'JavaScript', 'Python'],
   },
   {
-    title: 'Neural Net Weaver',
-    description: 'An interactive application for building and training neural networks directly in the browser.',
+    title: 'Priority Classification',
+    description: 'Grouped data by combinations of columns such as priority and type to calculate cumulative percentages for each classification bucket. Calculated month wise, priority wise, time wise cumulative percentages and updated the detailed analysis on an excel sheet.',
     link: '#',
-    tags: ['TypeScript', 'Python', 'TensorFlow.js'],
+    tags: ['Python', 'Pandas', 'Excel'],
   },
   {
-    title: 'Quantum Leap',
-    description: 'A simulation of quantum computing principles with a retro-futuristic user interface.',
+    title: 'Homestay',
+    description: 'Developed the frontend of a Homestay application using React, implementing features like login, sign-up, and booking. Built responsive UI components for user authentication and booking management, ensuring a smooth user experience. Optimized performance and maintained state management using React hooks.',
     link: '#',
-    tags: ['Svelte', 'Rust', 'WASM'],
+    tags: ['React', 'JavaScript', 'HTML', 'CSS', 'Node'],
   },
 ];
 
