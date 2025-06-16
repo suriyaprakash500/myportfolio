@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://myportfolio-gtcth8a8m-suriyaprakash-ks-projects.vercel.app/
+**URL**: https://prakashport.vercel.app/
 
 This project is built with:
 
